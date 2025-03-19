@@ -1,0 +1,15 @@
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=travellist
+DB_USERNAME=travellist_user
+DB_PASSWORD=*Shakila1108
+
+<?php
+$imagePath = "https://rakshanda.duckdns.org/images/pblogo.png";
+$imageDescription = "Logo";
+?>
+
+<h1 class="mb-1 font-medium">SHASHA</h1>  
+
+<img src="https://rakshanda.duckdns.org/images/pblogo.png" class="w-32 h-32" alt="PB Logo">
